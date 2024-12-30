@@ -73,4 +73,8 @@ Berikut adalah tampilan antarmuka aplikasi **CineHub** yang dirancang menggunaka
 
 ---
 
+### **Akses Figma dan Prototipe**
+- **Desain Figma:** [Klik di sini untuk melihat desain lengkap di Figma](https://www.figma.com/design/53btjNneeJMEoI7RGtvXQo/Teket-biskop?node-id=0-1&t=xnmZMRQhrAxfxxJi-1)  
+- **Prototipe Figma:** [Klik di sini untuk mencoba prototipe interaktif](https://www.figma.com/proto/53btjNneeJMEoI7RGtvXQo/Teket-biskop?page-id=0%3A1&node-id=8-42&p=f&viewport=97%2C273%2C0.09&t=bYlSwqRezOzooP1D-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=7%3A12)
+
 Semua desain dapat diakses lebih detail di folder **design**. Setiap halaman dirancang dengan cermat untuk meningkatkan pengalaman pengguna di aplikasi CineHub. 🎬✨
