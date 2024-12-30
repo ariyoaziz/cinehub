@@ -15,7 +15,7 @@ Berikut adalah tampilan antarmuka aplikasi **CineHub** yang dirancang menggunaka
 
 ---
 
-### **Urutan Halaman Utama**
+
 1. **Splash Screen**  
    Halaman pembuka aplikasi dengan animasi dan logo CineHub.  
    ![Splash Screen](./design/iPhone%2014%20%26%2015%20Pro%20-%20Splash.png)
@@ -44,9 +44,7 @@ Berikut adalah tampilan antarmuka aplikasi **CineHub** yang dirancang menggunaka
    Halaman untuk pengguna baru membuat akun mereka.  
    ![Registrasi](./design/iPhone%2013%20%26%2014%20-%20Registasi.png)
 
----
 
-### **Halaman Lainnya**
 8. **Home**  
    Halaman utama aplikasi yang menampilkan daftar film terbaru.  
    ![Home](./design/iPhone%2013%20%26%2014%20-Home.png)
