@@ -37,7 +37,7 @@ Berikut adalah kumpulan desain Figma untuk aplikasi CineHub yang telah diunggah:
    ![Registrasi](./design/iPhone%2013%20%26%2014%20-%20Registasi.png)
 
 8. **Home**  
-   ![Home](./design/iPhone%2013%20%26%2014%20-%20Home.png)
+   ![Home](./design/iPhone%2013%20%26%2014%20-Home.png)
 
 9. **Detail Film**  
    ![Detail Film](./design/iPhone%2013%20%26%2014%20-%20detail_film.png)
