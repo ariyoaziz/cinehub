@@ -1,7 +1,7 @@
 # TUGAS KELOMPOK WEB SERVICE MOBILE
 
 **Kelompok:**
-- **Ariyo Azis Pratama**
+- **Ariyo Aziz Pratama**
 - **Agus Purwanto** 
 - **La Ode Muhammad Nurfansyah**
 - **Ja'far**
